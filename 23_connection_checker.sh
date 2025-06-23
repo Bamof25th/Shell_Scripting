@@ -2,7 +2,7 @@
 
 read -p "Which site you want to check ? " site
 
-ping -c 1 $site
+ping -c 1 $site >> connectivity.log
 
 if [ $? -eq 0 ]
 then
