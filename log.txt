@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 showbhit is a good boy.
+=======
+My name is Aniket 
+>>>>>>> 3ca5a68 (unstaged changes 3)
